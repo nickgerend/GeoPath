@@ -1,0 +1,7 @@
+﻿Id,From,To,Group
+0,"El Paso, Texas","San Antonio, Texas",2
+1,"Beaumont, Texas","San Antonio, Texas","2, 3"
+2,"San Antonio, Texas","Fort Worth, Texas","2, 0, 4"
+3,"Fort Worth, Texas","Dallas, Texas","4, 1"
+4,"Gainesville, Texas","Fort Worth, Texas",4
+5,"Texarkana, Arkansas","Dallas, Texas",1
