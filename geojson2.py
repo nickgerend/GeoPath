@@ -1,3 +1,6 @@
+# Written by: Nick Gerend, @dataoutsider
+# Viz: "Geo Path", enjoy!
+
 import json
 import csv
 import argparse

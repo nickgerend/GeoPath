@@ -1,3 +1,6 @@
+# Written by: Nick Gerend, @dataoutsider
+# Viz: "Geo Path", enjoy!
+
 import pandas as pd
 import numpy as np
 import os
